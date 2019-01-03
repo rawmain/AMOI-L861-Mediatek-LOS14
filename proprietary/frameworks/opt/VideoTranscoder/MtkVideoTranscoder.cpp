@@ -64,7 +64,6 @@
 #include <media/stagefright/foundation/ADebug.h>
 #include <media/stagefright/MediaDefs.h>
 #include <media/stagefright/MetaData.h>
-#include <media/stagefright/MediaExtractor.h>
 #include <media/stagefright/MediaExtractor2.h>
 #include <media/stagefright/MPEG4Writer.h>
 #include <media/stagefright/OMXClient.h>
